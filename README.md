@@ -14,4 +14,4 @@
 ## Run Command
 `npm run dev`
 
-- [LIVE SITE](https://react-context-8161.netlify.app/)
+- [LIVE SITE](https://react-context-beta-nine.vercel.app/)
